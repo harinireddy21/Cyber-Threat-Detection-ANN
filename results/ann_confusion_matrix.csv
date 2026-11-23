@@ -1,0 +1,6 @@
+,pred normal,pred DoS,pred Probe,pred R2L,pred U2R
+true normal,4884,45,34,1,1
+true DoS,236,3355,5,0,0
+true Probe,127,31,810,0,0
+true R2L,363,0,2,85,0
+true U2R,18,0,0,0,2
